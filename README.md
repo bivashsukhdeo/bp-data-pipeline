@@ -1,5 +1,3 @@
-# bp-data-pipeline
-
 # Business Partner Data Pipeline
 
 A Python ETL pipeline that ingests, validates, and transforms Business Partner master data — modelled on SAP S/4HANA migration data structures.
@@ -12,15 +10,17 @@ A Python ETL pipeline that ingests, validates, and transforms Business Partner m
 
 ## Project structure
 
+```
 bp-data-pipeline/
-├── data/ # Raw input data
-├── output/ # Processed output (git-ignored)
+├── data/           # Raw input data
+├── output/         # Processed output (git-ignored)
 ├── src/
-│ ├── extract.py # Data ingestion and type casting
-│ ├── transform.py # Cleaning, validation, enrichment
-│ ├── load.py # Output writer
-│ └── pipeline.py # Pipeline orchestrator
+│   ├── extract.py     # Data ingestion and type casting
+│   ├── transform.py   # Cleaning, validation, enrichment
+│   ├── load.py        # Output writer
+│   └── pipeline.py    # Pipeline orchestrator
 └── README.md
+```
 
 ## How to run
 
