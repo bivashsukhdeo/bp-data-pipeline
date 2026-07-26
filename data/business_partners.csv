@@ -1,0 +1,6 @@
+bp_id,name,country,bp_type,active,revenue
+BP001,Glencore SA,ZA,Vendor,True,4500000
+BP002,Spar Group,ZA,Customer,True,2300000
+BP003,Anglo American,UK,Vendor,False,8100000
+BP004,Shoprite,ZA,Customer,True,1750000
+BP005,BHP Billiton,AU,Vendor,False,6200000
