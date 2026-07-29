@@ -1,6 +1,20 @@
-bp_id,name,country,bp_type,active,revenue,revenue_band
-BP001,Glencore SA,ZA,Vendor,True,4500000,Mid
-BP002,Spar Group,ZA,Customer,True,2300000,Mid
-BP003,Anglo American,UK,Vendor,False,8100000,High
-BP004,Shoprite,ZA,Customer,True,1750000,Low
-BP005,BHP Billiton,AU,Vendor,False,6200000,High
+bp_id,name,country,bp_type,active,revenue,currency,region,revenue_band,is_high_value
+BP001,Glencore SA,ZA,Vendor,True,4500000.0,ZAR,Africa,Mid,False
+BP002,Spar Group,ZA,Customer,True,2300000.0,ZAR,Africa,Mid,False
+BP003,Anglo American,UK,Vendor,False,8100000.0,GBP,Europe,High,True
+BP004,Shoprite,ZA,Customer,True,1750000.0,ZAR,Africa,Low,False
+BP005,BHP Billiton,AU,Vendor,False,6200000.0,AUD,APAC,High,True
+BP006,Naspers,ZA,Customer,True,9800000.0,ZAR,Africa,High,True
+BP007,MTN Group,ZA,Vendor,True,3400000.0,ZAR,Africa,Mid,False
+BP008,Sasol,ZA,Customer,False,2100000.0,ZAR,Africa,Mid,False
+BP009,Rio Tinto,UK,Vendor,True,11200000.0,GBP,Europe,High,True
+BP010,Pick n Pay,ZA,Customer,True,1200000.0,ZAR,Africa,Low,False
+BP012,Woolworths,ZA,Customer,True,0.0,ZAR,Africa,Low,False
+BP013,Standard Bank,ZA,Customer,True,4300000.0,ZAR,Africa,Mid,False
+BP014,Nedbank,ZA,Vendor,False,3100000.0,ZAR,Africa,Mid,False
+BP015,Old Mutual,ZA,Customer,True,2800000.0,ZAR,Africa,Mid,False
+BP016,Absa Group,ZA,Vendor,True,0.0,ZAR,Africa,Low,False
+BP017,FirstRand,ZA,Customer,True,5600000.0,ZAR,Africa,High,True
+BP018,Sibanye Gold,ZA,Vendor,False,4100000.0,ZAR,Africa,Mid,False
+BP019,Impala Platinum,ZA,Customer,True,7300000.0,ZAR,Africa,High,True
+BP020,Discovery,ZA,Customer,True,3900000.0,ZAR,Africa,Mid,False

@@ -1,0 +1,21 @@
+bp_id,name,country,bp_type,active,revenue,currency,region
+BP001,Glencore SA,ZA,Vendor,True,4500000,ZAR,Africa
+BP002,Spar Group,ZA,Customer,True,2300000,ZAR,Africa
+BP003,Anglo American,UK,Vendor,False,8100000,GBP,Europe
+BP004,Shoprite,ZA,Customer,True,1750000,ZAR,Africa
+BP005,BHP Billiton,AU,Vendor,False,6200000,AUD,APAC
+BP006,Naspers,ZA,Customer,True,9800000,ZAR,Africa
+BP007,MTN Group,ZA,Vendor,True,3400000,ZAR,Africa
+BP008,Sasol,ZA,Customer,False,2100000,ZAR,Africa
+BP009,Rio Tinto,UK,Vendor,True,11200000,GBP,Europe
+BP010,Pick n Pay,ZA,Customer,True,1200000,ZAR,Africa
+BP011,,ZA,Vendor,True,500000,ZAR,Africa
+BP012,Woolworths,ZA,Customer,True,,ZAR,Africa
+BP013,Standard Bank,ZA,Customer,True,4300000,ZAR,Africa
+BP014,Nedbank,ZA,Vendor,False,3100000,ZAR,Africa
+BP015,Old Mutual,ZA,Customer,True,2800000,ZAR,Africa
+BP016,Absa Group,ZA,Vendor,True,abc,ZAR,Africa
+BP017,FirstRand,ZA,Customer,True,5600000,ZAR,Africa
+BP018,Sibanye Gold,ZA,Vendor,False,4100000,ZAR,Africa
+BP019,Impala Platinum,ZA,Customer,True,7300000,ZAR,Africa
+BP020,Discovery,ZA,Customer,True,3900000,ZAR,Africa
